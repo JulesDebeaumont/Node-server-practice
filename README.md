@@ -1,0 +1,1 @@
+## Build from the following boilerplate : https://github.com/jeremyhalin/node-api-jwt-sequelize-boilerplate
